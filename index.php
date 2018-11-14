@@ -52,6 +52,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Todo App (PHP & MySQL)</title>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   </head>
   <body>
     <div class="heading">
